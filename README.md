@@ -6,7 +6,7 @@
 ![ER Diagram](https://github.com/parthpatoliya97/library_management_system_SQL/blob/main/ER-Diagram.png?raw=true)
 
 
-#### **Things that i learned from this project :-**
+#### **Topics covered in this project :-**
 - CRUD operations on the database
 - How to apply multi joins more than two or more tables
 - How to visualize the dataset and deal with it
