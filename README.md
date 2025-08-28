@@ -8,6 +8,7 @@
 
 #### **Topics covered in this project :-**
 - CRUD operations on the database
+- How to load the CSV file into the MySQL workbench 
 - How to apply multi joins more than two or more tables
 - How to visualize the dataset and deal with it
 - Create stored procedures to automate the library management flow
