@@ -3,9 +3,7 @@
 ![Library Image](https://previews.123rf.com/images/stocksbyrs/stocksbyrs2308/stocksbyrs230800285/210915615-an-illustration-of-a-library-with-bookshelves-and-a-clock-ai-generated.jpg)
 
 #### **ER DIAGRAM**
-![ER Diagram](https://raw.githubusercontent.com/parthpatoliya97/library_management_system_sql/902910ab6c46e29b7c5a6cc1d60690341b3f4e40/Untitled%20diagram%20_%20Mermaid%20Chart-2025-08-27-181505.png)
-
-
+![ER Diagram](https://github.com/parthpatoliya97/library_management_system_SQL/blob/main/ER-Diagram.png?raw=true)
 
 
 #### **Things that i learned from this project :-**
